@@ -9,7 +9,7 @@
 
 
 <?php
-$db = mysql_connect("localhost","ni12347_3sql13","74937493") or
+$db = mysql_connect("localhost","ni12347_3sql13","PASSWORD") or
   die ("Verbindung fehlgeschlagen");
 
 mysql_select_db("ni12347_3sql13",$db) or die("Konnte die Datenbank nicht waehlen.");
