@@ -18,7 +18,7 @@ userstats ist die Tabelle
 die hat 174 Spalten
 1x username und dann die Zahlen 1-173 (Es gibt 173 Blöcke in MC)
 Max's Plugin schreibt in die Datenbank wenn ein user einen Block abbaut.
-Also z.b. mrheat baut 2 steine ab dann kommt in spalte 1 "mrheat" und in
-Spalte 1 (Stein hat die ID 1) "2"
+Also z.b. mrheat baut 2 steine ab dann kommt in spalte 'username' "mrheat" und in
+Spalte '1' (Stein hat die ID 1) "2"
 
 Hoffe du kannst mir weiterhelfen :/
